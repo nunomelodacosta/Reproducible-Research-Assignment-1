@@ -56,4 +56,4 @@ median <- median(summary$total)
 **`r prettyNum(median, big.mark = ",",scientific = FALSE)`**
 
 # What is the average daily activity pattern?
-
+  
